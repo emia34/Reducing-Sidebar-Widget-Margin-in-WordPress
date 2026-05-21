@@ -1,0 +1,11 @@
+/* فاصله بین ابزارک‌ها */
+
+.sidebar .widget,
+
+.widget-area .widget,
+
+aside .widget {
+
+margin-bottom: 15px !important;
+
+}
